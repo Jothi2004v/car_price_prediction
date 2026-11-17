@@ -3,7 +3,7 @@ import pickle as pk
 import pandas as pd
 import streamlit as st
 import numpy as np
-from bing_image_downloader import downloader
+
 import base64
 
 MODEL_PATH = "models.pkl"
